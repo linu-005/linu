@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品安全实验室评估"
+  short_description: "收集新品与新版本情报，关联最新CVE并做本地实验室安全评估"
+  default_prompt: "Use $product-security-lab-review to assess a newly released product in a local lab and summarize current CVEs and mitigations."
